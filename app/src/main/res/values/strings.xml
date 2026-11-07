@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quản lý sinh viên</string>
+    <string name="title_student_list">Danh sách sinh viên</string>
+    <string name="title_student_detail">Chi tiết sinh viên</string>
+    <string name="student_id_prefix">MSSV: %1$s</string>
+    <string name="gpa_format">%1$.2f / 4.0</string>
+    <string name="personal_info">Thông tin cá nhân</string>
+    <string name="label_major">Chuyên ngành:</string>
+    <string name="label_class">Lớp học:</string>
+    <string name="label_gender">Giới tính:</string>
+    <string name="label_gpa">Điểm TB (GPA):</string>
+    <string name="label_email">Email:</string>
+    <string name="label_phone">Số điện thoại:</string>
+    <string name="avatar_desc">Ảnh đại diện</string>
+    <string name="next_desc">Chi tiết</string>
+</resources>
